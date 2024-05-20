@@ -1,4 +1,4 @@
-module rxtranslator
+module github.com/SEB534542/rxtranslator
 
 go 1.21.6
 
